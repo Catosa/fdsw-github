@@ -1,5 +1,5 @@
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 /* Hero Section */
@@ -24,7 +24,7 @@ body {
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #4e90a8;
 }
 
 @media (max-width: 768px) {
